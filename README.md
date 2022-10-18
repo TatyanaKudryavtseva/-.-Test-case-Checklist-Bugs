@@ -1,2 +1,2 @@
-# -.-Test-case-Checklist-Bugs
+Pet home. Test-case-Checklist-Bugs
 Практикум по созданию тест-кейса и чек-листа. Modul.10
